@@ -10,4 +10,4 @@ path = "src/main.rs"
 [dependencies]
 core = { path = "../core" }
 index = { path = "../index" }
-crossterm = "0.27"
+crossterm = "0.29"
